@@ -1,0 +1,208 @@
+student_name,branch,hours_studied,attendance,prev_marks,passed
+Divya Reddy,It,1.8,97%,88,1
+Aarav Gupta,It,8.1,52%,70,1
+Karan Mishra,it,4.2,53%,42,0
+Riya Nair,ece,5.9,85%,68,1
+Rohit Reddy,,9.2,74%,26,0
+Arjun Nair,C.S.E,6.7,79%,27,0
+Sneha Gupta,Cse,2.0,55%,38,0
+Nidhi Mishra,Cse,9.7,55%,45,1
+Kabir Yadav,ece,5.1,50%,92,1
+Rahul Verma,C.S.E,3.0,55%,52,0
+Sneha Nair,me,9.0,85%,66,1
+Rahul Nair, IT,5.4,78%,54,0
+SAHIL VERMA,C.S.E,6.3,53%,70,0
+Meera Reddy,Cse,4.3,87%,83,1
+Riya Sharma,It,5.4,81%,75,1
+Tanvi Yadav,C.S.E,1.9,84%,72,0
+Dev Reddy,CSE,0.6,58%,72,0
+Divya Das,I.T,8.3,76%,64,1
+Nidhi Yadav,ece,1.1,73%,36,0
+POOJA PATEL,C.S.E,5.8,62%,71,0
+Aman Yadav,E.C.E,0.2,87%,94,1
+Nidhi Nair,Cse,5.2,87%,58,0
+  Vikram Patel ,,6.9,54%,90,1
+Aman Sharma, IT,240,56%,,0
+AARAV NAIR, ME,6.4,87%,78,1
+Karan Verma,E.C.E,7.5,91%,,1
+Riya Verma, CSE,5.0,89%,54,1
+Aman Gupta,cse,,52%,78,0
+Arjun Mishra, IT,2.5,51%,92,0
+Nidhi Patel, ECE,6.6,55%,,1
+Dev Mishra,E.C.E,6.0,75%,68,1
+Rahul Sharma,cse,0.1,89%,65,0
+Meera Mishra,E.C.E,2.3,52%,69,0
+Nidhi Sharma,Cse,6.6,94%,66,1
+Vikram Sharma,Cse,9.8,77%,77,1
+Ananya Sharma,cse,3.4,86%,,0
+Sahil Sharma, CSE,2.7,66%,67,0
+Nidhi Sharma,ECE,8.7,69%,85,1
+Meera Verma,CSE,,77%,31,0
+Rohit Das,CSE,9.5,77%,43,1
+Dev Yadav, CSE,7.9,84%,43,0
+Arjun Das,IT,4.4,57%,,0
+Nidhi Das,IT,9.5,95%,75,1
+Priya Singh, CSE,8.8,59%,41,0
+  Rohit Mishra , CSE,0.5,71%,,1
+Isha Singh,I.T,,60%,58,0
+Vikram Reddy,C.S.E,5.5,62%,73,0
+Sahil Reddy,M.E,4.4,52%,83,1
+Ananya Sharma,cse,3.4,86%,,0
+Priya Sharma,ece,3.1,93%,53,0
+Sneha Mishra,CSE,4.1,98%,28,0
+Dev Patel,C.S.E,0.4,80%,76,0
+Rahul Patel,C.S.E,2.4,94%,87,0
+Nidhi Singh,Cse,2.5,85%,31,0
+  Rahul Sharma , ECE,3.4,69%,57,0
+Kabir Yadav,cse,2.7,55%,79,1
+Rahul Gupta,cse,1.8,74%,95,0
+Ananya Singh,Cse,7.3,72%,79,1
+Priya Verma,,9.7,80%,54,1
+MEERA YADAV,It,7.9,89%,48,1
+Pooja Patel,Ece,,63%,76,1
+Rohit Yadav,I.T,1.0,60%,80,0
+Vikram Reddy, ME,4.7,89%,87,1
+Priya Patel,it,2.5,87%,72,1
+Isha Singh, IT,1.3,66%,64,0
+Arjun Gupta,Cse,5.1,70%,39,0
+Arjun Reddy,ECE,9.8,87%,35,1
+Rohit Verma,CSE,5.2,91%,47,0
+Tanvi Singh, ECE,4.5,79%,55,0
+Kabir Mishra, ECE,7.5,100%,30,1
+ROHIT REDDY,ECE,2.5,91%,68,1
+Arjun Das,ece,8.7,47%,93,1
+Tanvi Reddy,CSE,5.7,60%,,0
+Meera Reddy,C.S.E,8.0,62%,87,1
+Aman Yadav,E.C.E,0.2,87%,94,1
+Sneha Yadav,ece,,82%,92,0
+Rahul Das, IT,3.6,47%,39,0
+Vikram Mishra, CSE,0.1,66%,82,0
+Kabir Singh,C.S.E,5.7,88%,54,0
+Tanvi Gupta, CSE,0.4,79%,26,0
+ISHA DAS,it,5.5,49%,55,0
+Rahul Mishra,Cse,6.0,80%,,1
+Pooja Das,C.S.E,,92%,,0
+Meera Sharma,CSE,3.9,59%,72,1
+Divya Nair,C.S.E,9.2,80%,54,1
+Rahul Verma,Ece,9.4,96%,74,1
+Aarav Sharma, CSE,0.1,100%,51,0
+Rohit Gupta,cse,2.0,50%,39,0
+Aman Patel, ECE,8.5,81%,87,1
+Kabir Gupta,it,,86%,53,1
+Ananya Yadav, ME,4.7,52%,82,0
+Vikram Yadav,Cse,6.1,77%,30,0
+Nidhi Reddy,CSE,0.3,93%,89,0
+Aman Sharma,cse,6.3,51%,36,0
+Pooja Yadav,cse,4.8,74%,80,1
+RIYA SHARMA,Cse,3.8,74%,66,0
+Dev Sharma,ME,5.2,49%,47,0
+Arjun Verma,Cse,1.5,52%,49,0
+Vikram Nair,ece,8.8,70%,79,1
+Sneha Sharma,C.S.E,5.7,92%,65,1
+Meera Patel, CSE,0.2,87%,26,0
+Sahil Mishra,CSE,7.4,66%,57,0
+Karan Verma,C.S.E,2.0,46%,28,0
+Tanvi Verma,ece,2.4,49%,52,0
+Ananya Patel,cse,3.6,65%,58,0
+Karan Gupta,I.T,1.8,51%,45,0
+Meera Verma,C.S.E,0.3,88%,60,0
+Karan Mishra,C.S.E,10.0,92%,83,1
+Dev Yadav,cse,9.9,87%,40,1
+Sahil Das,Cse,7.6,56%,71,1
+Vikram Das,it,6.4,51%,39,0
+Riya Nair,I.T,9.7,62%,56,1
+Nidhi Patel,C.S.E,9.4,50%,72,1
+  Divya Nair , ECE,9.2,100%,49,1
+Pooja Sharma,IT,1.5,75%,29,0
+Riya Gupta,it,3.0,64%,74,0
+Kabir Patel,CSE,8.8,87%,50,1
+Rohit Yadav,Cse,2.8,62%,70,0
+Ananya Yadav,Cse,,70%,53,0
+  Rohit Sharma ,cse,4.1,86%,91,1
+Priya Gupta,Cse,8.8,78%,33,1
+Sahil Patel,C.S.E,8.4,61%,57,1
+Riya Gupta, IT,9.1,66%,79,1
+Tanvi Mishra,IT,9.0,47%,59,1
+Tanvi Mishra,I.T,4.7,48%,81,1
+Meera Verma,cse,7.4,62%,90,1
+AARAV SHARMA,CSE,0.1,93%,64,1
+Tanvi Verma,ECE,,89%,62,1
+Tanvi Singh,CSE,1.5,97%,30,0
+Nidhi Reddy,CSE,8.2,73%,67,1
+Aarav Gupta,C.S.E,8.2,49%,64,1
+Divya Singh,it,7.2,73%,35,1
+Tanvi Das,me,2.2,94%,64,1
+PRIYA NAIR,IT,8.8,55%,44,1
+Pooja Verma, IT,5.9,61%,52,1
+Riya Gupta,me,9.1,47%,92,1
+Riya Mishra,Cse,3.7,81%,57,0
+Priya Verma, IT,5.2,49%,47,0
+Riya Sharma,M.E,0.6,57%,82,0
+Rahul Mishra,ece,6.3,52%,37,0
+Vikram Verma,E.C.E,5.1,91%,64,1
+  Riya Reddy , IT,0.3,97%,86,0
+Kabir Reddy,I.T,8.5,84%,72,1
+Aarav Singh,I.T,3.3,92%,92,1
+Dev Reddy,me,0.7,94%,43,0
+Meera Singh,C.S.E,1.9,82%,45,1
+Sahil Reddy, ME,4.1,48%,78,0
+Divya Mishra, CSE,1.2,67%,39,0
+Priya Gupta,I.T,7.3,96%,62,1
+Kabir Reddy,ece,0.5,82%,37,0
+Rahul Sharma,cse,1.4,66%,73,0
+Pooja Gupta,It,6.4,55%,56,1
+Pooja Patel,Cse,9.0,81%,91,1
+Sahil Nair,Ece,9.3,85%,76,1
+Arjun Nair, CSE,3.1,54%,76,0
+Aarav Patel,C.S.E,,96%,29,1
+Kabir Nair, ME,6.2,52%,72,0
+  Aman Sharma ,cse,2.2,91%,75,0
+Priya Nair, ECE,3.2,63%,70,0
+Karan Reddy,E.C.E,1.7,62%,49,0
+Riya Nair,CSE,6.3,90%,75,1
+Ananya Verma,CSE,3.6,99%,92,1
+Sahil Nair,Ece,6.8,54%,61,0
+Aarav Das,Me,8.7,66%,81,1
+Ananya Mishra,Me,3.2,85%,73,1
+Tanvi Das,me,2.2,94%,64,1
+Ananya Singh,C.S.E,0.0,57%,69,0
+Karan Gupta,,1.5,90%,38,0
+Sneha Mishra,C.S.E,5.1,90%,58,1
+Tanvi Nair,Ece,1.9,94%,64,1
+Rahul Verma,it,8.2,98%,81,1
+Aarav Patel,cse,6.8,52%,60,1
+Ananya Yadav,Cse,,70%,53,0
+Aarav Verma,Cse,2.5,57%,56,0
+Pooja Mishra,CSE,4.0,72%,27,0
+Divya Das,I.T,3.7,91%,47,0
+Tanvi Singh,CSE,7.7,75%,74,1
+Priya Reddy,I.T,8.7,85%,79,1
+  Aman Sharma ,cse,2.2,91%,75,0
+Tanvi Singh, IT,,52%,51,0
+Isha Mishra,CSE,,95%,40,0
+Kabir Gupta,CSE,3.5,55%,46,0
+  Meera Sharma , ECE,,49%,58,1
+Divya Mishra,IT,7.8,79%,36,1
+Kabir Sharma,me,4.0,95%,84,1
+Aarav Verma,Cse,2.5,57%,56,0
+Arjun Das,M.E,9.3,65%,46,1
+AMAN SINGH, IT,4.7,81%,58,0
+Dev Sharma,ece,4.3,85%,68,0
+VIKRAM DAS,Cse,,88%,68,1
+Sneha Yadav,M.E,5.5,80%,60,1
+Meera Verma,Cse,6.4,99%,90,1
+Ananya Reddy,Cse,5.2,59%,59,0
+ARJUN SINGH,Cse,5.9,67%,38,0
+Isha Singh,C.S.E,8.2,87%,70,1
+Isha Singh, CSE,9.5,67%,35,1
+Aman Nair, CSE,5.2,71%,79,1
+Sahil Gupta,,9.6,55%,54,1
+Sahil Verma,cse,6.8,68%,63,1
+Nidhi Singh,Cse,4.3,95%,56,1
+  Rohit Singh ,it,1.6,56%,79,0
+Rohit Verma, CSE,6.3,90%,48,0
+Tanvi Nair,Ece,1.9,94%,64,1
+Nidhi Nair,ece,9.2,58%,27,0
+  Divya Verma ,cse,5.7,70%,30,0
+Sneha Patel,Cse,6.8,47%,35,0
+Ananya Gupta,CSE,5.9,66%,51,0
